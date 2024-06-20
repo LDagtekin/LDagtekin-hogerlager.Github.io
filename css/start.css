@@ -1,0 +1,29 @@
+* {
+    background-color: yellow;
+    
+}
+
+#Hoger {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 150px;
+}
+
+#Start-button {
+    height: 150px;
+    width: 450px;
+    border-style: solid;
+    border-radius: 70px;
+    color: black;
+    border-width: 10px;
+    cursor: pointer;
+    background-color: yellow;
+    color: black;
+    font-size: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    display: block;
+}
+
